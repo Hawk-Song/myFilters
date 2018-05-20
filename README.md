@@ -1,1 +1,1 @@
-# myFilters
+# ads block rules according to Adblock Plus specifications
