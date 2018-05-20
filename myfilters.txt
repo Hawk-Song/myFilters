@@ -1,15 +1,3 @@
-!_FM_MyFilters
-*.wervp.com/*	
-*.yicang8.com/*	
-*.iwx88.com/*	
-j8ly.com/*	
-*.sy123888.com/*	
-*.nernv.com/*	
-*.jwiyr.com/*	
-*.yjpingpang.com	
-*.dnfeu.com/*	
-*.nmwy168.com	
-
 ||enjoycolor.cc/images/base/pushad.jpg
 ||cpu.baidu.com/block/wap/1311288/1924
 ||wx2.sinaimg.cn/large/e9345cbdly1fbp3xto8zfj206e02sdfu.jpg
