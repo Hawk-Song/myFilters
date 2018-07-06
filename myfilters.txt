@@ -63,7 +63,6 @@ peng3.com###__a_z_25553
 *.123xiaoqiang.com###__FcCC6f6693397E2aA455044000HCc
 *.123xiaoqiang.com##.__02b711e2004162a8Ad1HCc
 *.123xiaoqiang.com###__02b711e2004162a8Ad1HCc
-
 ! weibo start
 weibo.com##.obj_name
 weibo.com##.yy_banner
@@ -72,8 +71,11 @@ weibo.com##.WB_cardtitle_b.S_line2
 weibo.com##.WB_cardmore.S_txt1.S_line1.clearfix
 weibo.com##.appTips
 weibo.com##.btn
+weibo.cn##.div.appTips.sg_hide_element
+weibo.cn###app > div:first-child > div.m-in-panel > aside.OpenInAppButton.m-container-max:last-child
+weibo.cn##.aside.OpenInAppButton.m-container-max:last-child
+weibo.cn##div.vip-card.sg_hide_element:first-child
 ! weibo end
-
 ! zhihu start
 zhihu.com##.DownloadGuide-blockBg
 zhihu.com##.DownloadGuide-download
@@ -83,9 +85,9 @@ zhihu.com##.OpenInAppButton.OpenInApp.is-shown
 zhihu.com##.MobileAppHeader-downloadLink
 zhihu.com##.ViewAllInappButton
 zhihu.com##.CommentEditor-hiddenInput
-zhihu.com##.Button.ContentItem-rightButton
+!zhihu.com##.Button.ContentItem-rightButton
 ! zhihu end
-
+!quora start
 quora.com###__w2_QT6lq7e_view_in_app
 quora.com##.open_in_app_link
 quora.com###__w2_VuNhNVr_item
@@ -102,27 +104,75 @@ quora.com##.content_polygon
 quora.com##.Bundle.CarouselBundle.Carousel.SuggestedUsersBundle
 quora.com###__w2_vHo3XWa_carousel
 quora.com##.Bundle.CarouselBundle.Carousel.SuggestedAMAsBundle
-
+quora.com###__w2_SML0GbQ_ 
+quora.com##.sg_hide_element
+quora.com###unyJFV > div.Bundle > div.main_feed.singleton_bundle > div.multifeed_bundle_story.sg_hide_element
+quora.com###__w2_F44BZGI_item
+!quora end
 ! baidu start
-m.baidu.com##.index-banner-text
-m.baidu.com##.index-banner
-m.baidu.com##.first-card-body
-m.baidu.com##.rn-tpl2
-m.baidu.com##.rn-tpl3
-m.baidu.com##.wise-dislike.triangleBottom
-m.baidu.com##.bottom-load-ing
-m.baidu.com##.blank-frame
-m.baidu.com###foot
-m.baidu.com###login
-m.baidu.com##.icon-login
-m.baidu.com###ns-swipe
-m.baidu.com##.ns-swipe
-m.baidu.com##.menu-container.showtabs
+baidu.com##.index-banner-text
+baidu.com##.index-banner
+baidu.com##.first-card-body
+baidu.com##.rn-tpl2
+baidu.com##.rn-tpl3
+baidu.com##.wise-dislike.triangleBottom
+baidu.com##.bottom-load-ing
+baidu.com##.blank-frame
+baidu.com###foot
+baidu.com###login
+baidu.com##.icon-login
+baidu.com###ns-swipe
+baidu.com##.ns-swipe
+baidu.com##.menu-container.showtabs
+baidu.com##.square-enterance
+baidu.com##.index-banner
+baidu.com###userinfo-wraps
+baidu.com##.voice.call
+baidu.com###ts-image-uploader
+baidu.com##.qrcode.call
 ! baidu end
-
 ! instagram start
 instagram.com##._o6ctz
 instagram.com##._gwyj6._s5vjd._m5u86._1v9ex._dah1q._2zn62
 instagram.com##._gwyj6._s5vjd._m5u86._r4x45._dah1q._2zn62
 instagram.com##._85ya5
+instagram.com###react-root > section._sq4bv._29u45 > main._8fi2q._4kfp8:first-child > section._owark._62ky5:first-child > div:last-child > div:first-child > div > div._gwyj6._s5vjd._cxfdi._1v9ex._dah1q._hqhuc:nth-child(3)
+instagram.com###react-root > section._sq4bv._29u45 > main._8fi2q._4kfp8:first-child > section._owark._62ky5:first-child > div:last-child > div:first-child > div > div._gwyj6._s5vjd._cxfdi._1v9ex._dah1q._hqhuc.sg_hide_element:nth-child(2)
+instagram.com###react-root > section._sq4bv._29u45 > main._8fi2q._4kfp8:first-child > section._owark._62ky5:first-child > div:last-child > div:first-child > div > div._gwyj6._s5vjd._cxfdi._1v9ex._dah1q._hqhuc:nth-child(2)
+instagram.com###react-root > section._9eogI.E3X2T:last-child > main.SCxLW.uzKWK:first-child > section._1SP8R.M_qbh:first-child > div:last-child > div:first-child > div > div.kM-aa._8Rm4L.bq3Mi.D_6tu.ccgHY.l9Ww0.sg_hide_element:nth-child(2)
 ! instagram end
+! 2kxs
+m.2kxs.com###iIk_tfta236ufq_soyf1m8wcanh_frXe > a:nth-child(3) > img.sg_hide_element
+m.2kxs.com###iIk_tfta236ufq_soyf1m8wcanh_frXe
+m.2kxs.com###baseHeight
+m.2kxs.com##lqojh.sg_hide_element:first-child
+m.2kxs.com###cpyhswxhhj > a > img
+m.2kxs.com###cpxlknmlvjkp > a > img
+m.2kxs.com###cpxlknmlvjkp > a > img
+m.2kxs.com###cpgpynvwjzou > a > img
+m.2kxs.com###cpgpynvwjzou > a > img
+m.2kxs.com###dqxmoiaquwi
+m.2kxs.com###decmaqaxvmri
+m.2kxs.com###dxaqqmqrdli
+m.2kxs.com###daujmqapopui
+m.2kxs.com###dtkjrnkpyoi
+m.2kxs.com###dbxdefhoori
+m.2kxs.com##div:nth-child(2) > div.nr_page.sg_hide_element:nth-child(11)
+m.2kxs.com##div:first-child > div.hot.sg_hide_element:nth-child(12)
+! 2kxs
+!uukanshu start
+sj.uukanshu.com##div.share.share_top:nth-child(5) > ul.socialBtn > li.btn_tw:last-child > a.button-twitter.sg_hide_element
+sj.uukanshu.com###read-page > div.samebooks1.sg_hide_element:nth-child(5)
+3g.163.com##div.doc-footer-wrapper.sg_hide_element:nth-child(25)
+m.2kxs.com##div:first-child > div.hot:nth-child(12) > dl.sg_hide_element
+sj.uukanshu.com###read-page > div.samebooks1:nth-child(5)
+sj.uukanshu.com###read-page > div.samebooks1
+m.2kxs.com##div:first-child > div.hot
+!uukanshu end
+
+
+m.dianyingbar.com###_formalme2kaltj7vj
+m.uctxt.com##img[style="width: 100%; height: auto; top: 0; left: 0"]
+m.uctxt.com##div.xx.sg_hide_element:first-child
+m.uctxt.com###baseHeight
+m.uctxt.com###full-click-ext
